@@ -1,5 +1,5 @@
-###### Hello! Welcome to my project for my bioinformatics class! 🐠🐠🐠
-	
+## Hello! Welcome to my project for my bioinformatics class! 🐠🐠🐠
+![Image of Clownfish](https://img.etimg.com/thumb/msid-72258617,width-650,imgsize-797254,,resizemode-4,quality-100/nemo-clownfish_istock.jpg)	
 
 ## The title of this project is: Investigating the Molecular Mechanisms of Sex Change in Teleosts Through the Study of the Cyp19a1 Genes
 
