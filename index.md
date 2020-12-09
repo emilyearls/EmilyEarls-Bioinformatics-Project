@@ -1,7 +1,9 @@
 Welcome to my project for my Bioinformatics class!
 
 The title of this project is: Investigating the Molecular Mechanisms of Sex Change in Teleosts Through the Study of the Cyp19a1 Genes
+
 Authors: Emily Earls and Madison Gordon
+
 Abstract: 
 Hermaphroditic sex expression is evidenced in many different families of coral reef fishes and has aided the ability of these fishes to successfully evolve. Fishes expressing simultaneous hermaphroditism possess female and male gonads, while fishes expressing sequential hermaphroditism undergo sex change. Protandrous fishes possess female gonads that change to male gonads, and protandrous fishes possess male gonads that change to female gonads. Clownfish are protandrous hermaphrodites and undergo sex change upon the removal of the dominant female. The sex change influences the external appearance of the fish, alters internal gonads, and induces the production of female gametes. Cyp19a1 is suspected to play a major role in sex change. The gene encodes aromatase, which synthesizes estrogen by aromatizing androgens. Cyp19a1 has been attributed to gonadal differentiation and development. In fish species, aromatase is encoded by Cyp19a1a and Cyp19a1b, two genes that are differentially expressed. Cyp19a1a is mostly expressed throughout the gonads, while Cyp19a1b is predominantly expressed in the brain and pituitary gland. In this study, we will analyze the evolution of these genes in teleosts to better understand its role in sex determination.
 
