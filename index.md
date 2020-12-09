@@ -1,4 +1,4 @@
-###### Welcome to my project for my Bioinformatics class! 🐠🐠🐠
+###### Hello! Welcome to my project for my bioinformatics class! 🐠🐠🐠
 	
 
 ## The title of this project is: Investigating the Molecular Mechanisms of Sex Change in Teleosts Through the Study of the Cyp19a1 Genes
